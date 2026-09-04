@@ -1,0 +1,6 @@
+{
+  "name": "BachatBro",
+  "description": "Smart Indian personal finance planner: salary budgeting, Indian tax calculations (Old vs New regime, 80C, 80D, 24b), SIP & mutual fund investment allocation, wishlist loan & EMI simulator, and retirement nest egg calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
